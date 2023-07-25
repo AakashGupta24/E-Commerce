@@ -1,0 +1,7 @@
+submit_type:'pay',
+                mode:'payment',
+                payment_method_types:['card'],
+                billing_address_collection:'auto',
+                shipping_options:[
+                    {shipping_rates:'shr_1N9lJDSAEBi4CyZLK5UUNXj0'}
+                ],
